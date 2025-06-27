@@ -29,4 +29,5 @@
 🔍 Open to opportunities as a **Web Developer**, **Frontend Developer**, or **Full Stack Developer**.
 
 📫 Let's connect!  
-[LinkedIn](https://www.linkedin.com/in/harsh-namdev-b01441264/) • [Email](mailto:harshnama1234@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/harsh-namdev-b01441264/) • 📫 Email: [harshnama1234@gmail.com](mailto:harshnama1234@gmail.com)
+
