@@ -13,6 +13,7 @@
 - ✋ Gesture Volume Control: A computer vision project using OpenCV and Mediapipe for volume control via hand gestures.
 
 📈 Coding Profiles:
+- 🔗 [Codolio Portfolio](https://codolio.com/profile/harsh_namdev)
 - ✅ [LeetCode (200+ problems solved)](https://leetcode.com/u/harsh_namdev12/)
 - 🔧 [Coding Ninjas / CodeStudio (250+ problems solved)](https://www.naukri.com/code360/profile/harshnama)
 
