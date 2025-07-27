@@ -2,7 +2,7 @@
 
 💻 I specialize in building full stack web applications using:
 - **Frontend:** Next.js, React.js, Tailwind CSS
-- **Backend:** nodejs,express.js, MongoDB, SQL
+- **Backend:** nodejs,express.js, MongoDB, SQL , RestAPI , JWT authentication 
 - **Languages:** C++, Python, JavaScript
 - **Version Control:** Git, GitHub
 - **Tools:** Postman, VS Code, PyCharm
