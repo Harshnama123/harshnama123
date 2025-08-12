@@ -1,56 +1,61 @@
-👋 Hi, I'm Harsh Namdev — a Computer Science Engineering graduate and passionate Web & Software Developer.
+# 👋 Hi, I'm Harsh Namdev
 
-💻 I specialize in building full stack web applications using:
+🎓 A Computer Science Engineering graduate and passionate **Web & Software Developer**.
 
-Frontend: Next.js, React.js, Tailwind CSS
+---
 
-Backend: Node.js, Express.js, MongoDB, SQL, REST API, JWT Authentication
+## 💻 Tech Stack
 
-Languages: C++, Python, JavaScript
+**Frontend:** Next.js, React.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, MongoDB, SQL, REST API, JWT Authentication  
+**Languages:** C++, Python, JavaScript  
+**Version Control:** Git, GitHub  
+**Tools:** Postman, VS Code, PyCharm  
 
-Version Control: Git, GitHub
+---
 
-Tools: Postman, VS Code, PyCharm
+## 🚀 Featured Projects
 
-🚀 Featured Projects:
+- 🌐 **[Portfolio Website](https://harsh-portfolio-pearl.vercel.app/)** – A modern developer portfolio built with **Next.js 14**, **Tailwind CSS**, and **Framer Motion**.
+- 🎓 **[Advanced Attendance System](https://github.com/Harshnama123/advanced_attendance_system)** – A face recognition-based attendance tracker built with **Flask** and **MongoDB**.
+- 🤖 **[MERN-GPT](https://mern-gpt-beta.vercel.app/chat)** – An AI-powered chatbot built with the **MERN stack**, integrating **OpenAI’s GPT API** for intelligent conversational responses.
 
-🌐 Portfolio Website – A modern developer portfolio built with Next.js 14, Tailwind CSS, and Framer Motion.
+---
 
-🎓 Advanced Attendance System – A face recognition-based attendance tracker built with Flask and MongoDB.
+## 📈 Coding Profiles
 
-🤖 MERN-GPT – An AI-powered chatbot built with the MERN stack, integrating OpenAI’s GPT API for intelligent conversational responses.
+- 🔗 [Codolio Portfolio](https://codolio.com/profile/harsh_namdev)  
+- ✅ [LeetCode (200+ problems solved)](https://leetcode.com/u/harsh_namdev12/)  
+- 🔧 [Coding Ninjas / CodeStudio (250+ problems solved)](https://www.naukri.com/code360/profile/harshnama)  
 
-📈 Coding Profiles:
+---
 
-🔗 Codolio Portfolio
+## 🧠 Core Competencies
 
-✅ LeetCode (200+ problems solved)
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOPs)  
+- DBMS, Operating Systems  
 
-🔧 Coding Ninjas / CodeStudio (250+ problems solved)
+---
 
-🧠 Core Competencies:
+## 🤝 Soft Skills
 
-Data Structures & Algorithms (DSA)
+- Team Collaboration  
+- Clear Communication  
+- Creative Problem-Solving  
 
-Object-Oriented Programming (OOPs)
+---
 
-DBMS, Operating Systems
+## 🔍 Open to Opportunities As
 
-🤝 Soft Skills:
+- Software Development Engineer (SDE)  
+- Frontend Developer  
+- Full Stack Developer  
+  
 
-Team Collaboration
+---
 
-Clear Communication
+## 📫 Let’s Connect
 
-Creative Problem-Solving
-
-🔍 Open to opportunities as a:
-
-Software Developer
-
-Frontend Developer
-
-Full Stack Developer
-
-📫 Let’s connect!
-LinkedIn: www.linkedin.com/in/harsh-namdev-b01441264/ • 📧 Email: harshnama1234@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-namdev-b01441264/)  
+📧 [harshnama1234@gmail.com](mailto:harshnama1234@gmail.com)
