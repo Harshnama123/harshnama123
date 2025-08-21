@@ -18,7 +18,7 @@
 
 - 🌐 **[Portfolio Website](https://harsh-portfolio-pearl.vercel.app/)** – A modern developer portfolio built with **Next.js 14**, **Tailwind CSS**, and **Framer Motion**.
 - 🎓 **[Advanced Attendance System](https://github.com/Harshnama123/advanced_attendance_system)** – A face recognition-based attendance tracker built with **Flask** and **MongoDB**.
-- 🤖 **[MERN-GPT](https://mern-gpt-beta.vercel.app/chat)** – An AI-powered chatbot built with the **MERN stack**, integrating **OpenAI’s GPT API** for intelligent conversational responses.
+- 🤖 **[MERN-GPT](https://mern-gpt-beta.vercel.app/)** – An AI-powered chatbot built with the **MERN stack**, integrating **OpenAI’s GPT API** for intelligent conversational responses.
 
 ---
 
